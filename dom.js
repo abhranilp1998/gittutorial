@@ -150,7 +150,7 @@ function addItem(e) {
     itemList.appendChild(li);
 }
 
-//edit functionality
+//edit functionality to be added
 
 function editItem(li) {
 
